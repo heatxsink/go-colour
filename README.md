@@ -7,7 +7,7 @@ Make your terminal output colour-ized. :-)
 Usage
 -----
 
-Take a look at the tests! In short this is how you use colour.
+Please take a look at the tests! Below is a quick example of how you could use the colour package.
 
 ```go
 
