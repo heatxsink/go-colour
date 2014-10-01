@@ -13,7 +13,7 @@ Please take a look at the tests! Below is a quick example of how you could use t
 
 import (
 	"fmt"
-	"github.com/heatxsink/colour"
+	"github.com/heatxsink/go-colour"
 )
 
 func main() {
